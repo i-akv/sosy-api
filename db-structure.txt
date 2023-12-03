@@ -1,0 +1,42 @@
+User
+- profile picture
+- username
+- fullname
+- date of birth
+- email
+- phone
+- address
+- bio
+- following
+- followers
+- posts
+- likes
+- bookmarked
+- isVerified
+- otherSocials
+
+Post
+- caption
+- media_url/s
+- media_type/s
+- user
+- created_at
+- likes
+- dislikes
+- comments
+- location
+- description
+- mentions
+
+Comment
+- post
+- isReply
+- text
+- likes
+- dislikes
+- mentions
+- user
+- created_at
+- replies
+
+
